@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/04P.T.E.Pez_Aplicacio_bandas_yeso.jpg"
 showonlyimage = true
-date = "2019-03-20T20:22:08+05:30"
+date = "2019-04-15T20:22:08+05:30"
 title = "Próxima Inaguración de la Plataforma Web"
 writer = "Emilia Villagra"
 weight = 10
