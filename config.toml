@@ -33,8 +33,7 @@ paginate = 5 #frontpage pagination
     "Emilia es una arquitecta con experiencia en la conservación del patrimonio. Artífice y brújula de este proyecto."
   ]
   copyright = [
-    "&copyleft; 2018 Pieles Metálicas del Sur de Chile",
-    "Estilo de página modificado a partir del tema para Hugo 'Nederburg' de [Appernetic](https://appernetic.io)."
+    "&copyleft; 2018 Pieles Metálicas del Sur de Chile"
   ]
 
 

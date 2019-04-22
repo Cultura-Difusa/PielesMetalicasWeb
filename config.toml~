@@ -34,7 +34,7 @@ paginate = 5 #frontpage pagination
   ]
   copyright = [
     "&copyleft; 2018 Pieles Metálicas del Sur de Chile",
-    "Estilo de página modificado a partir del tema para Hugo 'Nederburg' de [Appernetic](https://appernetic.io)."
+
   ]
 
 
