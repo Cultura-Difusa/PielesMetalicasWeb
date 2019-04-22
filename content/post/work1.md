@@ -5,7 +5,7 @@ image = "img/portfolio/2018_06_14-Pieles-Metálicas-Valdivia_Picarte-026_02.jpg"
 date = "2017-02-14T18:25:22+05:30"
 title = "Probando 1, 2, 3"
 writer = "Emilia Villagra"
-categories = [ "design"]
+categories = [ "diseño"]
 weight = 1
 +++
 

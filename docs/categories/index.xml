@@ -38,41 +38,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>photography</title>
-      <link>https://www.pielesmetalicas.com/categories/photography/</link>
-      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
-      
-      <guid>https://www.pielesmetalicas.com/categories/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>code</title>
-      <link>https://www.pielesmetalicas.com/categories/code/</link>
-      <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
-      
-      <guid>https://www.pielesmetalicas.com/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travel</title>
-      <link>https://www.pielesmetalicas.com/categories/travel/</link>
-      <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
-      
-      <guid>https://www.pielesmetalicas.com/categories/travel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://www.pielesmetalicas.com/categories/design/</link>
-      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
-      
-      <guid>https://www.pielesmetalicas.com/categories/design/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

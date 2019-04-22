@@ -33,8 +33,7 @@ paginate = 5 #frontpage pagination
     "Emilia es una arquitecta con experiencia en la conservación del patrimonio. Artífice y brújula de este proyecto."
   ]
   copyright = [
-    "&copyleft; 2018 Pieles Metálicas del Sur de Chile",
-
+    "<img src=img/portfolio/Seremi_culturas_CMYK-LOS_RÍOS.png>"
   ]
 
 
@@ -70,15 +69,15 @@ paginate = 5 #frontpage pagination
 
 # this will also be in author bio if there is no writer.
   [params.social]
-  facebook      = "full Social profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  pinterest     = "full profile url in pinterest"
+  facebook      = "https://www.facebook.com/pieles.metalicas.5"
+  # googleplus    = "full profile url in googleplus"
+  email         = "contacto@pielesmetalicas.com"
+  twitter       = "https://twitter.com/MetalicasPieles"
+  # linkedin      = "full profile url in linkedin"
+  # stackoverflow = "full profile url in stackoverflow"
+  instagram     = "https://www.instagram.com/pielesmetalicas/"
+  # github        = "full profile url in github"
+  pinterest     = "https://www.pinterest.cl/pielesm/"
   rss           = true
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"

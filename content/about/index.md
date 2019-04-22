@@ -1,9 +1,9 @@
 +++
 date = "2019-03"
-title = "Sobre el Sitio"
+title = "Sobre el Proyecto"
 +++
 
-Aquí rellenar de qué va este sitio
+Por Completar / En Construcción
 
 ![Imagen][1]
 
