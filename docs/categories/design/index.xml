@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>design on Nederburg</title>
-    <link>www.pielesmetalicas.com/categories/design/</link>
+    <link>https://www.pielesmetalicas.com/categories/design/</link>
     <description>Recent content in design on Nederburg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Feb 2017 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="www.pielesmetalicas.com/categories/design/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pielesmetalicas.com/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Probando 1, 2, 3</title>
-      <link>www.pielesmetalicas.com/post/work1/</link>
+      <link>https://www.pielesmetalicas.com/post/work1/</link>
       <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
       
-      <guid>www.pielesmetalicas.com/post/work1/</guid>
+      <guid>https://www.pielesmetalicas.com/post/work1/</guid>
       <description>&lt;p&gt;Aquí estamos probando nuestra futura página web. Esto es una prueba, nada más&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>This is a Standard Post</title>
-      <link>www.pielesmetalicas.com/post/work2/</link>
+      <link>https://www.pielesmetalicas.com/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>www.pielesmetalicas.com/post/work2/</guid>
+      <guid>https://www.pielesmetalicas.com/post/work2/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
     </item>
     
