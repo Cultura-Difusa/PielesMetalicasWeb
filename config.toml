@@ -1,14 +1,15 @@
 baseurl = "https://www.pielesmetalicas.com"
 publishDir = "docs"
-title = "Nederburg"
+title = "Pieles Metálicas en el Sur de Chile"
 theme = "hugo-nederburg-theme"
-languageCode = "en-us"
+languageCode = "es"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "pielesmetalicas"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
+# publishDir = "Cultura-Difusa/pielesmetalicas.com.github.io" 
 
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
@@ -23,18 +24,17 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "A fast &amp; secure theme"
-  description = "Describe your website" # meta description
+  slogan = "Espacio de investigación, intercambio y archivo sobre los Recubrimientos Metálicos (1890 - 1930) en el Sur de Chile. Repositorio digital del libro con el mismo nombre."
+  description = "Recubrimientos Metálicos (1890 - 1930) en el Sur de Chile." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
-  authorLink = "https://appernetic.io/"
+  author = "Emilia Villagra"
+  authorLink = "https://krenarquitectura.com/"
   bio = [
-    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    "Emilia es una arquitecta con experiencia en la conservación del patrimonio. Artífice y brújula de este proyecto."
   ]
   copyright = [
-    "&copy; 2018 Göran Svensson",
-    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
-    "A port of Tracks by Compete Themes."
+    "&copyleft; 2018 Pieles Metálicas del Sur de Chile",
+    "Estilo de página modificado a partir del tema para Hugo 'Nederburg' de [Appernetic](https://appernetic.io)."
   ]
 
 
@@ -50,22 +50,22 @@ paginate = 5 #frontpage pagination
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "goran@molnsys.com"
+  email = "contacto@pielesmetalicas.com"
 
   # Nav links in the side bar
   [[menu.main]]
-  name = "Home"
+  name = "Principal"
   url = "/"
   weight = 1
 
   [[menu.main]]
-  name = "About"
+  name = "El proyecto"
   url = "about/"
   weight = 2
 
   [[menu.main]]
-  name = "Get in touch"
-  url = "contact/"
+  name = "Contacto"
+  url = "contacto/"
   weight = 3
 
 # this will also be in author bio if there is no writer.
@@ -83,32 +83,47 @@ paginate = 5 #frontpage pagination
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
-    [params.writers."Lukas Herman"]
-    link = "https://lherman.tk"
-    email = "lherman.cs@gmail.com"
+    [params.writers."Emilia Villagra"]
+    link = "https://krenarquitectura.com"
+    email = "contacto@pielesmetalicas.com"
     bio = [
-      "Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
+      "Emilia es una arquitecta con experiencia en la conservación del patrimonio. Artífice y brújula de este proyecto."
     ]
-    facebook      = "full lukas profile url in facebook"
-    googleplus    = "full profile url in googleplus"
+    # facebook      = "full lukas profile url in facebook"
+    # googleplus    = "full profile url in googleplus"
     twitter       = "full profile url in twitter"
     linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
+    # stackoverflow = "full profile url in stackoverflow"
     instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
+    # github        = "full profile url in github"
+    # pinterest     = "full profile url in pinterest"
 
-    [params.writers."Göran Svensson"]
-    link = "https://appernetic.io/"
-    email = "goran@molnsys.com"
+    [params.writers."Aline Richards"]
+    link = "https://queertionate.com/"
+    email = "aline@queertionate.com"
     bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+      "Aline es una antropóloga feminista, lideresa de <a href='https://queertionate.com/'>Queertionate.io</a>. Es la científica social y junto a Emilia la principal investigadora en el proyecto."
     ]
-    facebook      = "full Göran profile url in facebook"
-    googleplus    = "full profile url in googleplus"
+    # facebook      = "full lukas profile url in facebook"
+    # googleplus    = "full profile url in googleplus"
     twitter       = "full profile url in twitter"
     linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
+    # stackoverflow = "full profile url in stackoverflow"
     instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
+    # github        = "full profile url in github"
+    # pinterest     = "full profile url in pinterest"
+
+[params.writers."Daniel Frechoso González"]
+    link = "https://daniel.teselas.com/"
+    email = "daniel@teselas.com"
+    bio = [
+      "Daniel es un aprendiz de la Filosofía. Es asesor conceptual y editor de estilo -entre tantos otros roles- para el libro en este proyecto."
+    ]
+    # facebook      = "full lukas profile url in facebook"
+    # googleplus    = "full profile url in googleplus"
+    twitter       = "full profile url in twitter"
+    linkedin      = "full profile url in linkedin"
+    # stackoverflow = "full profile url in stackoverflow"
+    instagram     = "full profile url in instagram"
+    # github        = "full profile url in github"
+    # pinterest     = "full profile url in pinterest"
