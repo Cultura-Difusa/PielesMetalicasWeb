@@ -6,7 +6,7 @@ languageCode = "es"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "pielesmetalicas"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-139053667-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 # publishDir = "Cultura-Difusa/pielesmetalicas.com.github.io" 
@@ -17,15 +17,15 @@ paginate = 5 #frontpage pagination
     # set to true to disable service 
     disable = false
     # set to true to meet General Data Protection Regulation (GDPR)
-    anonymizeIP = false
-    respectDoNotTrack = false
-    useSessionStorage = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Espacio de investigación, intercambio y archivo sobre los Recubrimientos Metálicos (1890 - 1930) en el Sur de Chile. Repositorio digital del libro con el mismo nombre."
-  description = "Recubrimientos Metálicos (1890 - 1930) en el Sur de Chile." # meta description
+  slogan = "Espacio de investigación, intercambio y archivo sobre los Recubrimientos Metálicos (1890 - 1930) en el Sur de Chile.<br />Repositorio digital del libro con el mismo nombre."
+  description = "Recubrimientos Metálicos (1873 - 1930) en el Sur de Chile." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Emilia Villagra"
   authorLink = "https://krenarquitectura.com/"
@@ -65,7 +65,7 @@ paginate = 5 #frontpage pagination
 
   [[menu.main]]
   name = "Contacto"
-  url = "contacto/"
+  url = "contact/"
   weight = 3
 
 # this will also be in author bio if there is no writer.
@@ -79,6 +79,8 @@ paginate = 5 #frontpage pagination
   instagram     = "https://www.instagram.com/pielesmetalicas/"
   # github        = "full profile url in github"
   pinterest     = "https://www.pinterest.cl/pielesm/"
+  # Flickr
+  flickr	= "https://www.flickr.com/photos/146499510@N08" 
   rss           = true
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
