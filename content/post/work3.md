@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/04P.T.E.Pez_Aplicacio_bandas_yeso.jpg"
+image = "img/portfolio/04P.T.E.Pez_Aplicacio_bandas_yeso1.jpg"
 showonlyimage = true
 title = "Qué son las Pieles Metálicas y cómo se extraen los moldes"
 writer = "Emilia Villagra"
