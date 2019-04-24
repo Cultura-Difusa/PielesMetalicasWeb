@@ -1,11 +1,11 @@
 +++
-draft = false
+draft = true
 image = "img/portfolio/04P.T.E.Pez_Aplicacio_bandas_yeso.jpg"
 showonlyimage = true
-# date = "2019-04-15T20:22:08+05:30"
-title = "Próxima Inauguración de la Plataforma Web"
+date = "2019-04-15T20:22:08+05:30"
+title = "Cómo se extraen los moldes"
 writer = "Emilia Villagra"
-weight = 10
+weight = 9
 categories = ["diseño", "conservación", "procesos"]
 +++
 

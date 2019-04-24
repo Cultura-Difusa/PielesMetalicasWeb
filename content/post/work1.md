@@ -2,11 +2,11 @@
 showonlyimage = true
 draft = false
 image = "img/portfolio/2018_06_14-Pieles-Metálicas-Valdivia_Picarte-026_02.jpg"
-date = "2017-02-14T18:25:22+05:30"
-title = "Probando 1, 2, 3"
+
+title = "Qué encontrarás aquí"
 writer = "Emilia Villagra"
-categories = [ "diseño"]
-weight = 1
+# categories = [ "diseño"]
+weight = 8
 +++
 
 Aquí estamos probando nuestra futura página web. Esto es una prueba, nada más
