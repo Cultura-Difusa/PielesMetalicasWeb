@@ -33,9 +33,10 @@ paginate = 5 #frontpage pagination
     "Emilia es una arquitecta con experiencia en la conservación del patrimonio. Artífice y brújula de este proyecto."
   ]
   copyright = [
-    "<img src=img/portfolio/Seremi_culturas_CMYK-LOS_RÍOS.png>"
+    "&copyleft; 2018 Pieles Metálicas del Sur de Chile"
   ]
 
+#"<img src=img/portfolio/Seremi_culturas_CMYK-LOS_RÍOS.png>"
 
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
