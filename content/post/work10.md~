@@ -1,9 +1,8 @@
 +++
 draft = false
-image = "img/portfolio/04P.T.E.Pez_Aplicacio_bandas_yeso.jpg"
+image = "img/portfolio/Invitacion.jpg"
 showonlyimage = true
-# date = "2019-04-15T20:22:08+05:30"
-title = "Próxima Inauguración de la Plataforma Web"
+title = "Exhibiciones y Próxima Inauguración de la Plataforma Web"
 writer = "Emilia Villagra"
 weight = 10
 categories = ["diseño", "conservación", "procesos"]

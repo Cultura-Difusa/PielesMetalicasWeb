@@ -1,31 +1,37 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/2018_06_14-Pieles-Metálicas-Valdivia_Picarte-026_02.jpg"
+image = "img/portfolio/Patrones/07 Plancha Red cuadros.jpeg"
 
 title = "Qué encontrarás aquí"
 writer = "Emilia Villagra"
-# categories = [ "diseño"]
+categories = [ "conservación"]
 weight = 8
 +++
-
-Aquí estamos probando nuestra futura página web. Esto es una prueba, nada más
+Pieles Metálicas: Patrimonio Material del Sur de Chile, es el
+título que se le otorga a la investigación patrimonial que gira
+entorno a los revestimientos ornamentados de metal
+galvanizado existentes en las arquitecturas del Sur de Chile.
 <!--more-->
+Este proyecto trata de rescatar dicho patrimonio, a través del
+catastro gráfico y escultórico de las tipologías aún existentes
+en la Región de los Ríos y los Lagos. Indaga además, tanto
+en su procedencia y razones para su aparición, como su
+impacto cultural y económico, es decir, su historia.
 
-Pero si sigues aquí, te hacemos saber que pronto podrás disfrutrar de este espacio.
+El interés de estas “Pieles Metálicas” como elemento
+patrimonial se centra aquí, no obstante, en la dimensión
+del *archivo*. Esperamos que lo anterior permita visibilizar
+la existencia de hábitos y costumbres, cargadas de un
+profundo simbolismo, vinculadas estrechamente a una forma
+de habitar en el Sur de Chile. Es este, pues, un repositorio donde
+encontrarás todos los materiales usados para confeccionar este proyecto.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+El mencionado proyecto cristaliza a través de tres formatos: un ***libro***,
+esta ***página web*** que servirár principalmente de repositorio documental,
+ y un ***registro escultórico***.
 
-> Aquí una cita.
-
-## Aquí una cabezera de segundo nivel
-
-Aquí un parráfo
-
-Y aquí otro
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-Y ya está, esto es ... y nada más!
+Tanto el libro como la página web, que además de adjuntar el formato
+digital del mismo, extiende sus contenidos a través de fotografías,
+documentos y videos, serán presentados junto a esta exhibición
+en el Museo A. R. Philippi durante el mes de mayo del presente año.
