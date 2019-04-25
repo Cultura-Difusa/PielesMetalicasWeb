@@ -8,7 +8,7 @@ weight = 10
 categories = ["diseño", "conservación", "procesos"]
 +++
 
-Durante la primera semana de Mayo (2019), junto con el libro **Pieles Metálicas -Patrimonio Material del Sur de Chile-**, se inagurará esta plataforma Web. Por el momento estamos afinando la máquina. Aquí no solo encontrarás la **copia digital** del libro *Pieles Metálicas*, sino vínculos a todas las imágenes que no puedieron hacer parte del mismo, documentos escaneados de época, o vídeos relacionados con el tema. 
+Durante la primera semana de Mayo (2019), junto con el libro ***Pieles Metálicas: Registro del Patrimonio Material del Sur de Chile***, se inagurará esta plataforma Web. Por el momento estamos afinando la máquina. Aquí no solo encontrarás la **copia digital** del libro *Pieles Metálicas*, sino vínculos a todas las imágenes que no puedieron hacer parte del mismo, documentos escaneados de época, o vídeos relacionados con el tema. 
 <!--more-->
 Además de ser esta una plataforma para compartir información, y un punto de partida para este proyecto que está a punto de terminar oficialmente. Esperamos que la comunidad lo mantenga vivo, nosotras ciertamente mantendremos esta plataforma como "archivo".
 

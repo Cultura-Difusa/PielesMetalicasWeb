@@ -3,7 +3,7 @@ date = "2019-03"
 title = "Sobre el Proyecto"
 +++
 
-*Pieles Metálicas: Patrimonio Material del Sur de Chile*, es el
+*Pieles Metálicas: Registro del Patrimonio Material del Sur de Chile*, es el
 título que se le otorga a la investigación patrimonial que gira
 entorno a los revestimientos ornamentados de metal
 galvanizado existentes en las arquitecturas del Sur de Chile.
