@@ -2,7 +2,7 @@
 draft = false
 image = "img/portfolio/04P.T.E.Pez_Aplicacio_bandas_yeso1.jpg"
 showonlyimage = true
-title = "Qué son las Pieles Metálicas y cómo se extraen los moldes"
+title = "Pieles Metálicas y Confección de Muestras en Yeso"
 writer = "Emilia Villagra"
 weight = 1
 categories = ["diseño", "conservación", "procesos"]
@@ -30,19 +30,36 @@ Una vez que concluido con el catastro en la región de Los Ríos y
 de Los Lagos, comienza el proceso de elaboración de las muestras
 de yeso.
 
-1. Primeramente se aplicó (sobre los revestimientos en las fachadas
+( 1. ) Primeramente se aplicó (sobre los revestimientos en las fachadas
 en los edificios y viviendas que los contienen) vaselina como
 desmoldante y luego vendas de yeso -al menos cuatro capas, para
 ganar rigidez y evitar posibles deformaciones-.
 
-2. Al finalizar la toma de los negativos, se regularizaron y
+<iframe width="560" height="315" src="https://www.youtube.com/embed/llLu8H_ZsHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+( 2. ) Al finalizar la toma de los negativos, se regularizaron y
 estandarizaron los tamaños de todas las muestras, para
 posteriormente fabricar una caja que actuara como marco contenedor
 para el último vaciado.
 
-3. Ya en las cajas perfectamente selladas, se inicia el vaciado de
+![Imagens][1]
+
+[1]: /img/portfolio/Procesos/Negativos.jpeg
+
+( 3. ) Ya en las cajas perfectamente selladas, se inicia el vaciado de
 yeso para obtener el positivo final. Cada una de esculturas tiene
 al menos 4 kilos de yeso para conseguir dicha rigidez y espesor.
 El fraguado es lento, demoró alrededor de 3 semanas (en época de
 verano), para conseguir el acabado blanco que puede distinguirse
 en las muestras presentes en la exhibición.
+
+![Imagens][2]
+
+[2]: /img/portfolio/Procesos/Positivo1.jpeg
+
+
+![Imagens][3]
+
+[3]: /img/portfolio/Procesos/Positivo2.jpeg
+
+

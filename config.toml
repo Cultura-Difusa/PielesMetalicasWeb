@@ -24,7 +24,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Espacio de investigación, intercambio y archivo sobre los Recubrimientos Metálicos (1890 - 1930) en el Sur de Chile.<br />Repositorio digital del libro con el mismo nombre."
+  slogan = "Espacio de investigación, intercambio y archivo sobre los Recubrimientos Metálicos (1873 - 1930) en el Sur de Chile.<br />Repositorio digital del libro con el mismo nombre."
   description = "Recubrimientos Metálicos (1873 - 1930) en el Sur de Chile." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Emilia Villagra"
