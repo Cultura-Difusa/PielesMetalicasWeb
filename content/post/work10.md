@@ -20,4 +20,4 @@ Para esto, además, habilitaremos no solo plataformas en las redes sociales, sin
 
 Por el momento haz parte de nuestras redes y vincúlate al RSS, envíanos unas palabras a través del formulario de contacto, o simplemente haz un comentario en el foro.
 
-Sin más, nos vemos pronto.
+Sin más, nos vemos pronto...
